@@ -1,5 +1,6 @@
 Student Names         C      JAVA     Python
   Amrutha             A        B+       o
-  Harini              B        A        B+
+  Harini              B        A        o
   Trisha              B        B+       A
-  Lalitha             A        A+       B
+
+  Lalitha             A        A+       B+
